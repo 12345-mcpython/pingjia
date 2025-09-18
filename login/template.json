@@ -1,0 +1,213 @@
+{
+    "plan": {
+        "myCharacter": "本人性格热情开朗，待人友好，为人实谦虚。工作勤奋，认真负责，能吃苦耐劳，尽职尽责，有耐心。具有亲和力，平易近人，善于与人沟通。 ",
+        "myMotto": "青春有限，不要浪费在无意义的事情上，要专注于自己的梦想和目标。",
+        "myMerit": "乐于助人，愿意主动帮助他人",
+        "myDefect": "在公开场合讲话时，会有些紧张，表达不够流畅",
+        "myInterest": "编织，毛衣编织图案精美实用",
+        "myInterest2": "游泳，蛙泳节奏稳定游姿标准",
+        "myInterest3": "原神玩的好",
+        "myProfession1": "1",
+        "myProfession2": "2",
+        "myProfession3": "3"
+    },
+    "subjectStr1": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+    "subjectStr2": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+    "subjectStr3": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+    "professions": [
+        {
+            "professionName": "4",
+            "schoolName": "7"
+        },
+        {
+            "professionName": "5",
+            "schoolName": "8"
+        },
+        {
+            "professionName": "6",
+            "schoolName": "9"
+        }
+    ],
+    "goals": [
+        {
+            "aspectName": "思想品德",
+            "finishStatus": 3,
+            "goal": "10",
+            "aspect": 2,
+            "_id": 8,
+            "_uid": 8,
+            "_state": "modified"
+        },
+        {
+            "aspectName": "思想品德",
+            "finishStatus": 3,
+            "goal": "11",
+            "aspect": 2,
+            "_id": 9,
+            "_uid": 9,
+            "_state": "modified"
+        },
+        {
+            "aspectName": "思想品德",
+            "finishStatus": "2",
+            "goal": "12",
+            "aspect": 2,
+            "_id": 10,
+            "_uid": 10,
+            "_state": "modified"
+        },
+        {
+            "aspectName": "思想品德",
+            "finishStatus": "1",
+            "goal": "13",
+            "aspect": 2,
+            "_id": 11,
+            "_uid": 11,
+            "_state": "modified"
+        },
+        {
+            "aspectName": "学业水平",
+            "finishStatus": 3,
+            "goal": "14",
+            "aspect": 1,
+            "_id": 12,
+            "_uid": 12,
+            "_state": "modified"
+        },
+        {
+            "aspectName": "学业水平",
+            "finishStatus": 3,
+            "goal": "15",
+            "aspect": 1,
+            "_id": 13,
+            "_uid": 13,
+            "_state": "modified"
+        },
+        {
+            "aspectName": "学业水平",
+            "finishStatus": 3,
+            "goal": "16",
+            "aspect": 1,
+            "_id": 14,
+            "_uid": 14,
+            "_state": "modified"
+        },
+        {
+            "aspectName": "学业水平",
+            "finishStatus": 3,
+            "goal": "17",
+            "aspect": 1,
+            "_id": 15,
+            "_uid": 15,
+            "_state": "modified"
+        },
+        {
+            "aspectName": "身心健康",
+            "finishStatus": 3,
+            "goal": "18",
+            "aspect": 3,
+            "_id": 16,
+            "_uid": 16,
+            "_state": "modified"
+        },
+        {
+            "aspectName": "身心健康",
+            "finishStatus": 3,
+            "goal": "19",
+            "aspect": 3,
+            "_id": 17,
+            "_uid": 17,
+            "_state": "modified"
+        },
+        {
+            "aspectName": "身心健康",
+            "finishStatus": 3,
+            "goal": "20",
+            "aspect": 3,
+            "_id": 18,
+            "_uid": 18,
+            "_state": "modified"
+        },
+        {
+            "aspectName": "身心健康",
+            "finishStatus": 3,
+            "goal": "21",
+            "aspect": 3,
+            "_id": 19,
+            "_uid": 19,
+            "_state": "modified"
+        },
+        {
+            "aspectName": "艺术素养",
+            "finishStatus": 3,
+            "goal": "22",
+            "aspect": 4,
+            "_id": 20,
+            "_uid": 20,
+            "_state": "modified"
+        },
+        {
+            "aspectName": "艺术素养",
+            "finishStatus": 3,
+            "goal": "23",
+            "aspect": 4,
+            "_id": 21,
+            "_uid": 21,
+            "_state": "modified"
+        },
+        {
+            "aspectName": "艺术素养",
+            "finishStatus": 3,
+            "goal": "24",
+            "aspect": 4,
+            "_id": 22,
+            "_uid": 22,
+            "_state": "modified"
+        },
+        {
+            "aspectName": "艺术素养",
+            "finishStatus": 3,
+            "goal": "25",
+            "aspect": 4,
+            "_id": 23,
+            "_uid": 23,
+            "_state": "modified"
+        },
+        {
+            "aspectName": "劳动与社会实践",
+            "finishStatus": 3,
+            "goal": "26",
+            "aspect": 5,
+            "_id": 24,
+            "_uid": 24,
+            "_state": "modified"
+        },
+        {
+            "aspectName": "劳动与社会实践",
+            "finishStatus": 3,
+            "goal": "27",
+            "aspect": 5,
+            "_id": 25,
+            "_uid": 25,
+            "_state": "modified"
+        },
+        {
+            "aspectName": "劳动与社会实践",
+            "finishStatus": 3,
+            "goal": "28",
+            "aspect": 5,
+            "_id": 26,
+            "_uid": 26,
+            "_state": "modified"
+        },
+        {
+            "aspectName": "劳动与社会实践",
+            "finishStatus": 3,
+            "goal": "29",
+            "aspect": 5,
+            "_id": 27,
+            "_uid": 27,
+            "_state": "modified"
+        }
+    ]
+}
